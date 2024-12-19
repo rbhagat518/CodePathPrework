@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Color Change*
 
-Submitted by: **Your Name Here**
+Submitted by: **Ram Bhagat**
 
-**Name of your app** is an app that... [TODO] 
+**Color Change** is an app that modifies the background color of the app on the click of a button.
 
-Time spent: **X** hours spent in total
+Time spent: **.5** hours spent in total
 
 ## Required Features
 
