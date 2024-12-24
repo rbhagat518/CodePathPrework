@@ -15,15 +15,26 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://youtube.com/live/SXVUKBjK2JU?feature=share
 
 ## App Brainstorming (Step 4)
+
+Favorite applications and favorite features:
+1. TikTok:
+- swiping left and right to view different content or account profile information
+- swiping up and down to view different media
+2. YouTube:
+- mini player to watch/listen to video while doing other things
+- double tapping left/right side of screen to rewind/fast-forward ten seconds
+3. Twitter/ X the Everything App:
+- the trending page
+- replying to posts, ultimately creating a forum of large discussion  
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+I largely followed the CodePath guide while developing the app. The hardest part was getting back into the js syntax like mindset within swift.
 
 ## License
 
