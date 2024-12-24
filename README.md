@@ -30,7 +30,7 @@ Favorite applications and favorite features:
 - the trending page
 - replying to posts, ultimately creating a forum of large discussion  
 
-
+I'd like to create an app focused on tracking an athlete's statistics thrpughput a season (perhaps with a detailed dashboard). The fantasy basketball and football industry would benefit from a way to keep track of underrated players. 
 ## Notes
 
 Describe any challenges encountered while building the app.
