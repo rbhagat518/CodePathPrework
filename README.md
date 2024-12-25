@@ -17,6 +17,8 @@ The following **required** functionality is completed:
 
 https://youtube.com/live/SXVUKBjK2JU?feature=share
 
+https://i.imgur.com/RnDDLey.gif
+
 ## App Brainstorming (Step 4)
 
 Favorite applications and favorite features:
