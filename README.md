@@ -4,14 +4,14 @@ Submitted by: **Ram Bhagat**
 
 **Color Change** is an app that modifies the background color of the app on the click of a button.
 
-Time spent: **.5** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [completed] Users are see a screen with three labels and a button
+- [completed] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
